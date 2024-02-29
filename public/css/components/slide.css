@@ -46,6 +46,8 @@ body {
 
   display: flex;
   justify-content: space-between;
+  user-select: none;
+  user-zoom: none;
 }
 
 .slide__wrapper .slide__controls button {
