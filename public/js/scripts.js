@@ -6,4 +6,6 @@ const audio = document.querySelector("audio");
 slide.init();
 slide.addControls('[data-slide="prev"]', '[data-slide="next"]');
 
-window.onload(() => audio.play());
+window.addEventListener("load", () => {
+  audio.play();
+});
