@@ -1,4 +1,3 @@
-# slide-stories
-Slide clone do instagram, feito com JavaScript puro.
+# Retrospectiva
 <br/>
-veja funcionando: https://pedrooliver13.github.io/slide-stories/.
+veja funcionando: https://pedrooliver13.github.io/happy-birthday/.
