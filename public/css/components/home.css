@@ -19,3 +19,13 @@
   border-radius: 50px;
   transition: all 0.3s;
 }
+
+.home a:last-child {
+  background-color: transparent;
+  border: 4px solid #1db954;
+}
+
+.home a:hover {
+  background-color: #1ed760;
+  filter: brightness(1.01);
+}
