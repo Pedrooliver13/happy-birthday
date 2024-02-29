@@ -31,6 +31,8 @@ body {
 .slide div {
   width: 100%;
   height: 100%;
+  user-select: none;
+  user-zoom: none;
   object-fit: cover;
 }
 
