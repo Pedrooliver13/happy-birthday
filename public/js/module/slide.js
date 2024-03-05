@@ -49,7 +49,7 @@ export class Slide {
       return this.changeSlide(this.index.next);
     }
 
-    return this.changeSlide(0);
+    return;
   }
 
   autoSlide(time) {
